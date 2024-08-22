@@ -12,3 +12,4 @@ C:\Users\415525\Desktop\Unoesc\Unoesc-0224\estruturaDeDados24\Atividades\aula01\
 C:\Users\415525\Desktop\Unoesc\Unoesc-0224\estruturaDeDados24\Atividades\aula01\obj\Debug\net8.0\aula01.pdb
 C:\Users\415525\Desktop\Unoesc\Unoesc-0224\estruturaDeDados24\Atividades\aula01\obj\Debug\net8.0\aula01.genruntimeconfig.cache
 C:\Users\415525\Desktop\Unoesc\Unoesc-0224\estruturaDeDados24\Atividades\aula01\obj\Debug\net8.0\ref\aula01.dll
+C:\Users\415525\Desktop\Unoesc\Unoesc-0224\estruturaDeDados24\Atividades\aula01\obj\Debug\net8.0\aula01.sourcelink.json
