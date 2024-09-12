@@ -12,7 +12,7 @@ namespace ListaGenerica
     {
         public string? Title { get; set; }
         public string? Author { get; set;}
-        public string? publisher { get; set;}
+        public string? Publisher { get; set;}
         public GenderEnum Gender { get; set; }
     }
 }
